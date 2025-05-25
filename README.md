@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I'm an aspiring Data Analyst with a strong foundation in Python and Machine Learning.  <br>📊 I enjoy working with data and exploring patterns using pandas, NumPy, and matplotlib.  <br>🧠 Familiar with basic ML algorithms and hands-on projects using scikit-learn.  <br>📈 Enthusiastic about learning data visualization, analysis, and model building.  <br>🚀 Eager to grow in the field and contribute to real-world data-driven solutions
+👋 Hi, I'm an aspiring Data Analyst with a strong foundation in Python and Machine Learning.  <br>📊 I enjoy working with data and exploring patterns using pandas, NumPy, and matplotlib.  <br>🧠 Familiar with basic ML algorithms and hands-on projects using scikit-learn.  <br>📈 Enthusiastic about learning data visualization, analysis, and model building.  <br>🚀 Eager to grow in the field and contribute to real-world data-driven solutions.
 
 
 ## 🌐 Socials:

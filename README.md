@@ -136,7 +136,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   
-  <a href="http://t.me/aman_pandit_78" target="_blank">
+  <a href="http://t.me/rajuxprajapati" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>

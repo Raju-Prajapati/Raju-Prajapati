@@ -1,29 +1,40 @@
+<h1 align="center" style="color:#00BFFF;">Hi 👋, I'm <span style="color:#FF6F61;">Raju Kumar Prajapati</span></h1>
 
-# 💫 About Me:
-👋 Hi, I'm an aspiring Data Analyst with a strong foundation in Python and Machine Learning.  <br>📊 I enjoy working with data and exploring patterns using pandas, NumPy, and matplotlib.  <br>🧠 Familiar with basic ML algorithms and hands-on projects using scikit-learn.  <br>📈 Enthusiastic about learning data visualization, analysis, and model building.  <br>🚀 Eager to grow in the field and contribute to real-world data-driven solutions.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010579507208) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajuprajapat._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raju-prajapati-b34745232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajulkounvofficial159@gmail.com) <h1 align="center">Hi 👋, I'm Aman Mani Tripathi</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
+<h3 align="center" style="color:#20B2AA;">
+  🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+DL+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+DL+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" 
+    alt="Typing SVG" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+  />
 </p>
+
+<hr style="border: 1px solid #00BFFF; width: 60%; margin: 30px auto;" />
+
+<p align="center" style="font-size: 18px; color: #444;">
+  <strong>🔍 Exploring data, building models, and solving real-world problems.</strong>
+</p>
+
 
 ---
 
 ### 🌍 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00008B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raju+from+Ballia%2C+Uttar+Pradesh%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
 </p>
 
-📍 I'm from **Ballia, India**  
-🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
-🎓 Completed **BCA** from *University of Lucknow*  
-🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges
+<p align="center" style="font-size: 1.1em; line-height: 1.6; max-width: 600px; margin: auto;">
+  📍 <strong>Ballia, Uttar Pradesh, India</strong><br>
+  🎓 Pursuing <strong>MCA</strong> at <em><strong>Galgotias University, Greater Noida</strong></em><br>
+  🎓 Completed <strong>BCA</strong> from <em><strong>DDU University</strong></em><br>
+  🧠 Passionate about <strong>Data Science, Machine Learning & Deep Learning</strong><br>
+  🎯 Goal: To become a skilled <strong>Data Scientist</strong> solving real-world challenges
+</p>
+
 
 ---
 
@@ -105,7 +116,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   
-  <a href="https://m.facebook.com/Santosh.singh.rajput.4321/" target="_blank">
+  <a href="[(https://www.facebook.com/share/16LxyNRghh/)]" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
   
@@ -117,7 +128,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   
-  <a href="https://wa.me/918756604890?text=Hello%2C%20I%20want%20to%20connect" target="_blank">
+  <a href="https://wa.me/917380401165?text=Hello%2C%20I%20want%20to%20connect" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   
@@ -163,54 +174,102 @@
 </details>
 
 
-# 📊 GitHub Stats:
-<!-- GitHub Stats Section -->
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Raju-Prajapati&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180px"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Raju-Prajapati&theme=radical&hide_border=false" height="180px"/></td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-Prajapati&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raju-Prajapati&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Raju-Prajapati&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-Prajapati&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Raju-Prajapati?label=Follow&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raju-Prajapati.Raju-Prajapati" />
 </p>
 
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raju-Prajapati&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center" style="margin-bottom: 30px;">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Raju-Prajapati&theme=radical&no-frame=false&no-bg=false&margin-w=10" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(255, 140, 0, 0.6);"
+  />
+</div>
 
 ---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
 </picture>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raju-Prajapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📊 GitHub Contributor Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=Raju-Prajapati&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img 
+  src="https://github-contributor-stats.vercel.app/api?username=Raju-Prajapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&nocache=true" 
+  alt="GitHub Contributor Stats for Raju-Prajapati" 
+/>
+</p>
+
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img 
+      src="https://visitcount.itsvg.in/api?id=Raju-Prajapati&icon=0&color=0" 
+      alt="Visitor Count" 
+    />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raju-Prajapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raju-Prajapati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-Prajapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-Prajapati&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Raju-Prajapati&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Raju-Prajapati?label=Follow&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raju-Prajapati.Raju-Prajapati" />
+</p>
+
+
+<blockquote align="center">
+  <img src="https://img.shields.io/badge/Bill%20Gates-Inspiration-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <br><br>
+  <strong>"Your most unhappy customers are your greatest source of learning."</strong>
+  <br>
+  <br>
+  <strong>"If you are born poor it's not your mistake, but if you die poor it's your mistake."</strong>
+  <br>
+  <br>
+  <strong> "It's fine to celebrate success, but it is more important to heed the lessons of failure."
+</strong>
+  <br>
+  <em>— Bill Gates</em>
+</blockquote>

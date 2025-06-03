@@ -30,7 +30,7 @@
 <p align="center" style="font-size: 1.1em; line-height: 1.6; max-width: 600px; margin: auto;">
   📍 <strong>Ballia, Uttar Pradesh, India</strong><br>
   🎓 Pursuing <strong>MCA</strong> at <em><strong>Galgotias University, Greater Noida</strong></em><br>
-  🎓 Completed <strong>BCA</strong> from <em><strong>DDU University</strong></em><br>
+  🎓 Completed <strong>BCA</strong> from <em><strong>University Of Lucknow</strong></em><br>
   🧠 Passionate about <strong>Data Science, Machine Learning & Deep Learning</strong><br>
   🎯 Goal: To become a skilled <strong>Data Scientist</strong> solving real-world challenges
 </p>
@@ -116,7 +116,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   
-  <a href="[(https://www.facebook.com/share/16LxyNRghh/)]" target="_blank">
+  <a href="https://www.facebook.com/share/16LxyNRghh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
   
@@ -228,16 +228,12 @@
 </p>
 
 
-## 👁️ Visitor Count
+## 👁️‍🗨️ Visitor Count
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img 
-      src="https://visitcount.itsvg.in/api?id=Raju-Prajapati&icon=0&color=0" 
-      alt="Visitor Count" 
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Raju-Prajapati&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Count Badge" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -24,7 +24,7 @@
 ### 🌍 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00008B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raju+from+Ballia%2C+Uttar+Pradesh%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00008B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raju+from+Ballia%2C+Uttar+Pradesh%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+Lucknow+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
 </p>
 
 <p align="center" style="font-size: 1.1em; line-height: 1.6; max-width: 600px; margin: auto;">

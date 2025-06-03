@@ -19,9 +19,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aman+from+Gorakhpur%2C+India.;Pursuing+MCA+at+Galgotias+University.;BCA+Graduate+from+DDU+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
 </p>
 
-📍 I'm from **Gorakhpur, India**  
+📍 I'm from **Ballia, India**  
 🎓 Pursuing **MCA** at *Galgotias University, Greater Noida*  
-🎓 Completed **BCA** from *DDU University, Gorakhpur*  
+🎓 Completed **BCA** from *University of Lucknow*  
 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
 🎯 Goal: To become a skilled **Data Scientist** solving real-world challenges
 
@@ -95,13 +95,13 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ Amanpandit87/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ Raju-Prajapati/count.svg?"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aman-mani-tripathi-744320299/" target="_blank">
+  <a href="https://www.linkedin.com/in/raju-prajapati-b34745232/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   
@@ -109,11 +109,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
   
-  <a href="mailto:amanmanit133@gmail.com" target="_blank">
+  <a href="mailto:rajulkounvofficial159@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   
-  <a href="https://instagram.com/aman_pandit_87" target="_blank">
+  <a href="https://instagram.com/rajuprajapat._" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   
@@ -167,25 +167,25 @@
 <!-- GitHub Stats Section -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Amanpandit87&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180px"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Amanpandit87&theme=radical&hide_border=false" height="180px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Raju-Prajapati&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180px"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Raju-Prajapati&theme=radical&hide_border=false" height="180px"/></td>
   </tr>
 </table>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanpandit87&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-Prajapati&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height = "180px" />
 </p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amanpandit87&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Raju-Prajapati&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanpandit87/Amanpandit87/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Raju-Prajapati/Raju-Prajapati/output/github-snake.svg" />
 </picture>
 
 
@@ -193,10 +193,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amanpandit87&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Raju-Prajapati&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amanpandit87&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Raju-Prajapati&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

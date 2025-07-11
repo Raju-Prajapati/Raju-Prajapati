@@ -155,15 +155,9 @@
 ### 📊 ML/DL Projects
 
 - 🚗 **Car Price Prediction** — Predicting car resale value using regression  
-- 📱 **Smartphone Price Prediction** — Classification model for pricing smartphones  
-- 💻 **Laptop Price Prediction** — Regression model based on specs  
-- 😷 **Face Mask Detection** — Deep learning with CNN & OpenCV  
-
 ### 📚 Recommendation Engines
 
-- 📚 **Book Recommendation System** — Content-based and collaborative filtering  
-- 🎬 **Movie Recommendation System** — Popularity & collaborative filtering based  
-- 📩 **SMS Spam Classifier** — NLP-based binary classification model  
+
 
 ### 🏆 Sports & Analytics
 

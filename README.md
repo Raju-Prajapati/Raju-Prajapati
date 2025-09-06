@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00BFFF;">Hi 👋, I'm <span style="color:#FF6F61;">Raju Kumar Prajapati</span></h1>
 
 <h3 align="center" style="color:#20B2AA;">
-  🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast
+  🚀 Aspiring Data Analyst | Data Explorer | Tech Enthusiast
 </h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
   📍 <strong>Ballia, Uttar Pradesh, India</strong><br>
   🎓 Pursuing <strong>MCA</strong> at <em><strong>Galgotias University, Greater Noida</strong></em><br>
   🎓 Completed <strong>BCA</strong> from <em><strong>University Of Lucknow</strong></em><br>
-  🧠 Passionate about <strong>Data Science, Machine Learning & Deep Learning</strong><br>
+  🧠 Passionate about <strong>Data Analytics | Data Visualization | Business Insights</strong><br>
   🎯 Goal: To become a skilled <strong>Data Scientist</strong> solving real-world challenges
 </p>
 

@@ -32,7 +32,7 @@
   🎓 Pursuing <strong>MCA</strong> at <em><strong>Galgotias University, Greater Noida</strong></em><br>
   🎓 Completed <strong>BCA</strong> from <em><strong>University Of Lucknow</strong></em><br>
   🧠 Passionate about <strong>Data Analytics | Data Visualization | Business Insights</strong><br>
-  🎯 Goal: To become a skilled <strong>Data Scientist</strong> solving real-world challenges
+  🎯 Goal: To become a skilled <strong>Data Analytics</strong> solving real-world challenges
 </p>
 
 
